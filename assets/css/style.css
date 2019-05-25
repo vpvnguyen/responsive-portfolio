@@ -173,11 +173,11 @@ input[type=submit]:hover,
 	#name {
 		width: 75%;
 		text-align: center;
-		}
+	}
 	.navbar {
 		width: 72%;
 		text-align: justify;
-		}
+	}
 	.section-container {
 		width: 72.5%;
 	}
@@ -187,11 +187,11 @@ input[type=submit]:hover,
 	#name {
 		width: 65%;
 		text-align: center;
-		}
+	}
 	.navbar {
 		width: 76%;
 		text-align: justify;
-		}
+	}
 	.section-container {
 		width: 59.5%;
 	}
