@@ -165,3 +165,34 @@ input[type=submit]:hover,
 	line-height: 40px;
 	background-color: #666666;
 }
+@media screen and (max-width: 980px) {
+
+}
+
+@media screen and (max-width: 768px) {
+	#name {
+		width: 75%;
+		text-align: center;
+		}
+	.navbar {
+		width: 72%;
+		text-align: justify;
+		}
+	.section-container {
+		width: 72.5%;
+	}
+}
+
+@media screen and (max-width: 640px) {
+	#name {
+		width: 65%;
+		text-align: center;
+		}
+	.navbar {
+		width: 76%;
+		text-align: justify;
+		}
+	.section-container {
+		width: 59.5%;
+	}
+}
